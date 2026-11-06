@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nev": "Kovács Anna",
+    "datum": "2026-11-01",
+    "alvasOra": 7.5,
+    "minoseg": 92,
+    "alkalmazastHasznalt": true
+  },
+  {
+    "id": 2,
+    "nev": "Nagy Péter",
+    "datum": "2026-11-02",
+    "alvasOra": 5.5,
+    "minoseg": 65,
+    "alkalmazastHasznalt": false
+  },
+  {
+    "id": 3,
+    "nev": "Szabó Márk",
+    "datum": "2026-11-03",
+    "alvasOra": 8,
+    "minoseg": 88,
+    "alkalmazastHasznalt": true
+  },
+  {
+    "id": 4,
+    "nev": "Tóth Eszter",
+    "datum": "2026-11-04",
+    "alvasOra": 6,
+    "minoseg": 71,
+    "alkalmazastHasznalt": false
+  },
+  {
+    "id": 5,
+    "nev": "Varga Bence",
+    "datum": "2026-11-05",
+    "alvasOra": 9,
+    "minoseg": 96,
+    "alkalmazastHasznalt": true
+  }
+]
